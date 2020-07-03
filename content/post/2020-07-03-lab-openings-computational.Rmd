@@ -1,0 +1,44 @@
+---
+title: Computational postdoc position available! (July 2020)
+date: '2020-07-03'
+slug: lab-openings-computational
+categories:
+  - lab news
+tags:
+  - lab news
+subtitle: ''
+summary: 'We are looking for a postdoc scientist with experience in computational biology and/or plant genomics for projects supported by our NIH R35/MIRA award.'
+authors: [ch153]
+lastmod: '2020-07-03T16:04:23-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+### We are looking for a postdoc scientist with experience in computational biology and/or plant genomics for projects supported by our NIH R35/MIRA award.
+
+[Complete posting in PDF](/files/jobs/Huang_Lab_postdoc_June2020_interfolio_official_2.pdf)
+
+### Location
+NYU Center for Genomics and Systems Biology - 12 Waverly Place, New York, NY 10003
+
+### Open Date
+June 29, 2020
+
+### Description 
+The Huang lab at NYU Biology (https://huanglab.rbind.io) is looking for a highly motivated and independent individual to work as a Postdoctoral Associate in computational biology. This position is for a post-PhD trainee preparing for a research scientist career path. The planned position will provide a transition to career independence through the development of professional skills; supervision by senior scientist incorporating individual development plan in support of training goals and those of faculty mentor; and publication of research findings/scholarship during postdoc appointment period.
+
+Projects in the Huang lab use both "dry"- and "wet"-lab genomics methods to study gene regulation at the systems level. Planned projects apply the DAP-seq techniques developed in the lab to characterize natural variation in transcription factor - DNA interactions and use computational modelling to understand the regulatory functions of genome and epigenome variation. We work with the reference plant Arabidopsis and collaborate with multiple groups on agriculturally and ecologically important plants.
+
+We aim to build a highly interdisciplinary and collaborative lab, and are committed to provide a supportive environment for lab members to achieve scientific excellence and gain expertise in both computational and experimental skills. The lab space is centrally located in the Washington Square campus of NYU at the Center for Genomics and Systems Biology.
+
+
+### Qualifications
+The ideal candidate will hold a PhD in computational biology, genetics/genomics, plant biology, or ecology/evolution, a track record or first- or co-first-author peer-reviewed publications, and prior research experience in any of these areas: analysis of high-throughput sequencing data, comparative genomics, single cell genomics, basic statistics, and/or machine learning. Experience with analysis of plant genome sequences or single cell genomics data is a plus. The position is expected to continue for multiple years contingent on satisfactory performance.
+
+### Application Instructions
+Please upload your application materials via Interfolio at https://apply.interfolio.com/76910. Include the following items: 1) CV including a list of publications; 2) cover letter with brief description of your present and future research interests; 3) a list of three references and their contact information.
+

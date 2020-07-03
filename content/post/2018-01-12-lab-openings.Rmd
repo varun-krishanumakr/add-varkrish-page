@@ -1,0 +1,29 @@
+---
+title: We are hiring!
+authors: 
+  - ch153
+date: '2018-01-12'
+slug: lab-openings
+categories:
+  - 'lab news'
+tags:
+  - 'lab news'
+summary: 'We are looking for a postdoc scientist and a technician to join our lab at New York University in the heart of Manhattan.'
+---
+
+### We are looking for a postdoc scientist and a technician to join our lab at New York University in the heart of Manhattan.
+
+[Complete posting in PDF](/files/jobs/Huang_Lab_openings_Jan2018_2.pdf)
+
+### ABOUT THE POSITIONS
+
+#### Postdoc scientist
+
+We are looking for a motivated scientist with expertise in any of the areas listed below, as evidenced by first-author or co-first-author publications. We seek candidates with PhD training in plant biology, molecular biology, genetics/genomics, ecology/evolution, or computational biology. Experience with Arabidopsis and/or plant hormone biology is a plus. Relevant skills and experience include work on molecular cloning, protein expression and purification, single cell genomics, comparative genomics, analysis of high-throughput sequencing data, basic statistics, computer programming and/or machine learning. The position is expected to continue for multiple years contingent on satisfactory performance.
+
+**Applying**: To apply, please submit cover letter with a brief description of research interests and accomplishments, CV, contact information for three references to http://apply.interfolio.com/48596. We encourage candidates to identify potential funding sources for which they may be eligible and interested in applying for. Applications will be considered until the position is filled. For informal inquiries or submitting a CV, please feel free to contact s.c.huang@nyu.edu.
+
+#### Technician
+We are looking for a motivated and organized individual with training in molecular biology, biochemistry, or plant biology with prior laboratory experiences. The technician will work with the PI to assist with multiple research projects. Responsibilities may include molecular cloning, protein expression and purification, high-throughput sequencing library preparations, FACS, common molecular biology techniques focused on Arabidopsis or other plants such as transformation, as well as managing purchases. Being able to work a flexible schedule based on research needs and deadlines is a plus. The position is expected to continue for one or more years contingent on satisfactory performance.
+
+**Applying**: To apply, please submit a cover letter, resume and contact information for three references to http://apply.interfolio.com/48604. Applications will be considered until the position is filled. For informal inquiries or submitting a resume, please feel free to contact s.c.huang@nyu.edu.
