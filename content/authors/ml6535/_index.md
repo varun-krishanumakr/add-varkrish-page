@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Miaomiao Li
+weight: 10
 
 # Username (this should match the folder name)
 authors:

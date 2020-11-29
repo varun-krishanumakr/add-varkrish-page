@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Nabila Zaman
+weight: 50
 
 # Username (this should match the folder name)
 authors:
