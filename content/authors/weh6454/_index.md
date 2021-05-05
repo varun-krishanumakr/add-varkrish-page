@@ -57,7 +57,7 @@ social:
   link: http://www.linkedin.com/in/will-hinckley-022524146
 - icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=9Rwv3zUAAAAJ&hl=en&oi=ao
+  link: https://www.researchgate.net/profile/Will-Hinckley
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/will_hinckley
