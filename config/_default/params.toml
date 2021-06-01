@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Dark"
+theme = "Minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -37,7 +37,7 @@ font_size = "M"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Person"
+site_type = "Lab"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -62,7 +62,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "12 Waverly Pl", city = "New York", region = "NY", postcode = "10003", country = "United States", country_code = "US"}
+address = {street = "1013 NE 40th St", city = "Seattle", region = "WA", postcode = "98105", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.729950", longitude = "-73.994517"}
+coordinates = {latitude = "47.6552", longitude = "-122.3166"}
 
 # Directions for visitors to locate you.
-directions = "Enter the CGSB Building and take the elevator to the 5th floor."
+directions = "Henderson Hall, University of Washington"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

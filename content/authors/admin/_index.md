@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huang Lab for Genomic Analysis
+title: Echospace
 
 # Username (this should match the folder name)
 authors:
@@ -10,13 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Center for Genomics and Systems Biology
+role: Applied Physics Lab & eScience Institute
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Biology
-- name: New York University
-- url: ""
+- name: University of Washington
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -25,14 +24,10 @@ organizations:
 user_groups: []
 ---
 
-We are in the Center for Genomics and Systems Biology, Department of Biology at New York University.  Our lab uses both "dry"- and "wet"-lab genomics methods to study gene regulation at the systems level. Specifically, we are interested in understanding how the repertoire of genome and epigenome variations at the levels of individual and population give rise to phenotypic variations in realistic environment. The extensive intra-specific genome and epigenome variation and adaptability to the environment found in the plant kingdom provide rich resources to investigate this question.  Working with the reference plant *Arabidopsis* and extending to agriculturally and ecologically important plants, we focus on three related topics:
-
-- identifying genomic and epigenomic determinants of intra-specific transcriptional variation;
-- using single cell sequencing methods to characterize cell type-specific responses;
-- mapping population- and cell type-specific regulatory networks in hormone responses.
+We are a diverse group of researchers whose work centers around extracting knowledge from large volumes of ocean acoustic data, which contain rich information about animals ranging from zooplankton, fish, to marine mammals. Integrating physics-based models and data-driven methods, our work focuses on mining [water column sonar data](https://storymaps.arcgis.com/collections/0c89e00d504f429bb0a8dd7f6838ec56?item=6) and spans a broad spectrum from developing computational methods, building open source software and cloud applications, to joint analysis of acoustic observations and ocean environmental variables. A parallel but closely related focus of our research involves using echolocating bats and toothed whales as biological model systemss for adaptive and distributed ocean sensing. 
 
 ### Research areas:
-- Computational biology
-- Genomics
-- Transcriptional regulation
-- Natural variation
+- Acoustic ocean sensing
+- Animal echolocation / bioacoustics
+- Marine ecology
+- Reproducible research
