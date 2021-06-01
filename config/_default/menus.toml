@@ -18,25 +18,30 @@
   url = "/2020/11/29/lab-openings-nsf-nih/"
   weight = 30
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
+
+[[main]]
+  name = "Software"
+  url = "#software"
+  weight = 40
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
