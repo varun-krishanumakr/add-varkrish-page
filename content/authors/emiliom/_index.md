@@ -16,7 +16,7 @@ role: Senior Oceanographer
 
 # Organizations/Affiliations
 organizations:
-- name: Applied Physics Lab
+- name: Applied Physics Laboratory
 - name: University of Washington
   url: ""
 
@@ -30,12 +30,12 @@ organizations:
 
 education:
   courses:
-  - course: PhD in \?
-    institution: \?
-    year: \?
-  - course: \?
-    institution: \?
-    year: \?
+  - course: PhD in Chemical Oceanography
+    institution: University of Washington
+    year: 2004
+  - course: BS in Environmental Engineering Science
+    institution: Massachusetts Institute of Technology
+    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,22 +45,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:emiliom@uw.edu
-# - icon: twitter
-#   icon_pack: fab
-#   link: 
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: 
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/emiliom/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/emilio-mayorga-b8976a33/
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0003-2574-4623
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=bzb__YgAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
+#- icon: cv
   # icon_pack: ai
   # link: files/cv/shhuang_cv_210208.pdf
 
@@ -72,3 +72,5 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+
+I am an environmental informatics expert with a science background in aquatic biogeochemistry, hydrology and oceanography, focused on the development and implementation of systems for the management and open dissemination of environmental data in marine and terrestrial applications. I have more than 20 years of experience designing, managing and automating data systems and workflows for environmental applications. My work emphasizes collaborative approaches and tools that engage diverse partners, and its scope ranges from local (Pacific NW) to national and global applications.
