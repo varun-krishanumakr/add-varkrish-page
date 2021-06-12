@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:emiliom@uw.edu
+- icon: home
+  icon_pack: fas
+  link: http://apl.uw.edu/people/profile.php?last_name=Mayorga&first_name=Emilio
 - icon: github
   icon_pack: fab
   link: https://github.com/emiliom/
