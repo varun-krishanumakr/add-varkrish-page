@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Open positions"
-  url = "/2020/11/29/lab-openings-nsf-nih/"
+  url = "#positions"
   weight = 30
 
 [[main]]
@@ -28,14 +28,14 @@
   url = "#software"
   weight = 50
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 60
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 60
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 70
 
 [[main]]
