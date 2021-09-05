@@ -70,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a research assistant and software engineer focused on developing tools to assist with research in bioacoustics. Among other things, I have worked on the development of [echopype](https://github.com/OSOceanAcoustics/echopype), [echoregions](https://github.com/OSOceanAcoustics/echoregions), GUIs for detecting and cleaning porpoise clicks, and scripts for converting and calibrating data provided by the Oceans Observatories Initiative (OOI) and the National Centers for Environmental Information (NCEI) data repositories.
