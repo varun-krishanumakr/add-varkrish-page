@@ -12,13 +12,15 @@ weight: 12
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Graduate student, UW-ECE
+external_link: https://github.com/ngkavin
+
 
 # Organizations/Affiliations
-organizations:
-- name: Applied Physics Lab
-- name: University of Washington
-  url: ""
+# organizations:
+# - name: University of Washington
+# - name: Applied Physics Lab
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
