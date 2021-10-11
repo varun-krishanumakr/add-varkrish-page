@@ -12,13 +12,15 @@ weight: 12
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Graduate student, UW-ECE
+external_link: https://github.com/ngkavin
+
 
 # Organizations/Affiliations
-organizations:
-- name: Applied Physics Lab
-- name: University of Washington
-  url: ""
+# organizations:
+# - name: University of Washington
+# - name: Applied Physics Lab
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I am a research assistant and software engineer focused on developing tools to assist with research in bioacoustics. Among other things, I have worked on the development of [echopype](https://github.com/OSOceanAcoustics/echopype), [echoregions](https://github.com/OSOceanAcoustics/echoregions), GUIs for detecting and cleaning porpoise clicks, and scripts for converting and calibrating data provided by the Oceans Observatories Initiative (OOI) and the National Centers for Environmental Information (NCEI) data repositories.
