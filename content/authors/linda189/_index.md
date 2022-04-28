@@ -12,7 +12,8 @@ weight: 12
 superuser: false
 
 # Role/position
-role: Research Assistant
+# role: 
+external_link: https://github.com/linda189
 
 # Organizations/Affiliations
 organizations:
@@ -73,6 +74,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 I am a research assistant focused on the ADCP (Acoustic Doppler current profiler). I enjoy doing experiments and learning about acoustics. I had some experience with Python programming and I want to learn more. I earned my bachelor’s degree in applied physics from the University of Washington in 2021. I want to try out different fields, and I hope to return to school for a master's degree. 
