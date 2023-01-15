@@ -16,21 +16,20 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical and Computer Engineering
-- name: Applied Physics Laboratory
 - name: University of Washington
+- name: Applied Physics Lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in applying artificial intelligence for environmental conservation
+bio: I am interested in applying machine learning algorithms for understanding echolocating animals
 
 interests:
-- Bioacoustics
-- Artificial Intelligence 
-- Wildlife conservation
+- Digital Signal Processing
+- Echolocation/Bioacoustics
+- Passive Acoustic Monitoring
 
 education:
   courses:
-  - course: BS in Electrical Engineering (in progress)
+  - course: BS in Electrical Engineering
     institution: University of Washington
     year: 2024 (expected)
 
@@ -66,11 +65,11 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
+I am a student at the University of Washington majoring in Electrical Engineering and pursuing Digital Signal Processing and Neural Engineering concentrations. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
 
-My core competency is in programming, with an expertise in Java and Python. I aim to use my programming skills to aid in ecological & environmental conservation. 
+My core competency is in programming, with an expertise in Python and Java. I am currently applying signal processing techniques in passive acoustic monitoring of bats with a goal toward ecological conservation.
 
-At Echospace, I am currently working on using machine learning methods on echolocation data to understand the foraging and social behaviors of bats in the wild. 
+At Echospace, I am developing and applying computational methods on echolocation data to understand the foraging and social behaviors of bats in the wild. We collect our echolocation data from local bat colonies by deploying autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)), at the Union Bay Natural Area right by the UW Husky Football Stadium.
 
 Feel free to ask me any questions at my email on pursuing research as an undergraduate!
 
