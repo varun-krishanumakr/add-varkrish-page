@@ -7,6 +7,6 @@
     - Update various standard fields
     - Add a blurb about yourself and your project(s) below the `---` line
 5. Replace `/content/authors/NETID/avatar.jpg` with your picture
-6. Create a PR to the `master` branch of the upstream repo
+6. Create a PR to the `uw-echospace/main` branch of the upstream repo
 7. The PR will trigger a build that goes to a temporary site shown on a comment to your PR, so you can tune your content there.
-9. Tag @leewujung to merge your PR to master. Once merged, your info will be updated on the official page.
+9. Tag @leewujung to merge your PR to main. Once merged, your info will be updated on the official page.
